@@ -2,10 +2,6 @@
 
 This project showcases a responsive NFT (Non-Fungible Token) preview card component. It's designed to display essential information about an NFT, including its image, title, description, pricing in Ethereum, time remaining, and creator details.
 
-## Preview
-
-![NFT Preview Card Component]('./images/screenshot.png)
-
 ## Live Site
 
 The live version of this project can be viewed [here](https://nft-preview-card-component-ment.netlify.app/).
